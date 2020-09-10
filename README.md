@@ -11,7 +11,7 @@ This work aims to model the problem through a multi-agent environment (netLogo),
 Agents / Deseases
 -----------
 
-![GitHub Logo](/deseases.png)
+[](/images/deseases.png)
 
 
 Simulation
@@ -19,9 +19,9 @@ Simulation
 
 After 50 days
 
-![GitHub Logo](/before.png)
+![GitHub Logo](/images/before.png)
 
 
 After barrer break
 
-![GitHub Logo](/after.png)
+![GitHub Logo](/images/after.png)
