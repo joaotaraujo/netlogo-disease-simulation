@@ -11,7 +11,7 @@ This work aims to model the problem through a multi-agent environment (netLogo),
 Agents / Deseases
 -----------
 
-[](/images/deseases.png)
+![GitHub Logo](/images/deseases.png)
 
 
 Simulation
